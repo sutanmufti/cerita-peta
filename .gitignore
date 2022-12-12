@@ -1,0 +1,5 @@
+venv/
+*/_build/
+.DS_Store
+about/.DS_Store
+*/.DS_Store
