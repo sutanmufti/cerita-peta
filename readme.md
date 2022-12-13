@@ -1,8 +1,8 @@
-# Rekayasa Data Spasial
+# Cerita Peta 
 
-repository ini merupakan buku dokumentasi kehidupan Rekayasa Data Spasial dan rekayasadata.co.uk. Powered by ```jupyter-book```.
+repository ini merupakan buku katalog proyek _in house_ [Rekayasa Data Spasial](https://tentang.rekayasadata.co.uk). Powered by ```jupyter-book```.
 
-Repository ini merupakan _source code_ dari [https://tentang.rekayasadata.co.uk](https://tentang.rekayasadata.co.uk) 
+Repository ini merupakan _source code_ dari [https://ceritapeta.co.uk](https://tentang.rekayasadata.co.uk) 
 
 ## Building the book
 
