@@ -1,0 +1,31 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+# parts:
+#   - chapters:
+#     - file: buku_ini
+#   - caption: Tentang
+#     chapters:
+#     - file: Tentang_RDS
+#     - file: how_we_work
+#     - file: kontribusi
+#   - caption: Kontributor
+#     chapters:
+#     - file: kontributor/kontributor.md
+#       sections:
+#       - file: kontributor/kontributor/Sutan.md
+#       - file: kontributor/kontributor/Barik.md
+#       - file: kontributor/kontributor/Rini.md
+#       - file: kontributor/kontributor/Hadiyan.md
+#   - caption: Proyek Rumah
+#     chapters:
+#     - file: in-house/intro
+#       sections:
+#       - file: in-house/Rekayasadata.co.uk.md
+#       - file: in-house/Editorial
+#       - file: in-house/CeritaKopiJakarta
+#       - file: in-house/TransportasiJakartaDepok
+
+
